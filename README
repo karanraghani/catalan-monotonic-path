@@ -1,0 +1,5 @@
+Catalan Number is the number of monotonic paths form origin to any co-ordinates lying on line "x=y",
+ which do not pass above this line.
+A monotonic path is one which starts from origin, 
+finishes in the destination co-ordinates, 
+and consists entirely of rightwards or upwards movements.
